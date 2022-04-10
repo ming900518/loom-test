@@ -8,7 +8,7 @@
 ## 編譯
 
 **Release 裡有我已經編譯好的 JAR 檔**  
-**如果不想要這麼麻煩，也可以直接拿裡面的檔案，用基於 JDK 19 的 Project Loom Early-Access Build 執行：`java  --enable-preview -jar [下載回來的JAR檔]`**
+**如果不想要這麼麻煩，也可以直接拿[這裡](https://github.com/ming900518/loom-test/releases/tag/test)的檔案，用基於 JDK 19 的 Project Loom Early-Access Build 執行：`java  --enable-preview -jar [下載回來的JAR檔]`**
 
 1. 安裝 [Project Loom 的 Early-Access Build](https://jdk.java.net/loom/)
 
